@@ -4,6 +4,8 @@ A real-time 2-player geography guessing game. Both players are shown a place nam
 
 **Play it live:** [geo-duel.fly.dev](https://geo-duel.fly.dev)
 
+![Round complete — reveal of both guesses against the actual location](docs/screenshot.png)
+
 ## How it works
 
 - Pick a name and you're matched with the next player looking for a game. If no one's around within 8 seconds, you'll play against **GeoBot**, an AI opponent that plays with deliberately imperfect accuracy scaled to your own historical average.
