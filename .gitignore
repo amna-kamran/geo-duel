@@ -1,3 +1,4 @@
 /geoduel
 *.log
 .DS_Store
+leaderboard.json
